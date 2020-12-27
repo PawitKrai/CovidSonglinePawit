@@ -14,7 +14,7 @@ pip install CovidSonglinePawit
 เปิด IDLE ขึ้นมาแล้วพิมพ์...
 
 ```python
-from covidreport import report
+from CovidSonglinePawit import report
 
 token = 'YOUR LINE NOTIFY TOKEN'
 re = report(token) #input token
