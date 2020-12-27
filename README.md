@@ -9,6 +9,9 @@
 pip install CovidSonglinePawit
 ```
 
+### Generate Line Notify TOKEN
+https://notify-bot.line.me/th/
+
 ### วิธีเล่น
 
 เปิด IDLE ขึ้นมาแล้วพิมพ์...
