@@ -1,2 +1,2 @@
 #__init__.py
-from covidreport import report
+from CovidSonglinePawit.covidreport import report

@@ -9,15 +9,15 @@ except:
 setup(
   name = 'CovidSonglinePawit',         # How you named your package folder (MyLib)
   packages = ['CovidSonglinePawit'],   # Chose the same as "name"
-  version = '0.1',      # Start with a small number and increase it with every change you make
+  version = '0.2',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Sending Covid-19 Report THAILAND by Pawit Kraisornnukhor',   # Give a short description about your library
   long_description=long_description,
   long_description_content_type = "text/markdown",
   author = 'Pawit Kraisornnukhor',                   # Type in your name
   author_email = 'pawit.kr@gmail.com',      # Type in your E-Mail
-  url = 'https://github.com/PawitKrai/pawit',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/PawitKrai/CovidSonglinePawit/archive/v_01.tar.gz',    # I explain this later on
+  url = 'https://github.com/PawitKrai/CovidSonglinePawit',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/PawitKrai/CovidSonglinePawit/archive/v_02.tar.gz',    # I explain this later on
   keywords = ['COVID', 'LINE', 'Pawit'],   # Keywords that define your package best
   classifiers=[
     'Development Status :: 3 - Alpha',      # Chose either "3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your package
